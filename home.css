@@ -1,0 +1,113 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.logo {
+    width: 170px;
+    margin-top: -50px;
+    margin-left: 40px;
+}
+
+.search {
+    width: 500px;
+   
+    margin-left: 250px;
+    border-style: groove;
+    padding: 10px;
+    margin-top: -105px;
+    
+}
+
+#search {
+    width: 420px;
+    height: 60px;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-left: 250px;
+    margin-top: -105px;
+  }
+
+  .vl {
+    border-left: 1px solid rgba(93, 93, 93, 0.697);
+    height: 50px;
+    margin-left:1015px ;
+    margin-top:-55px
+  }
+
+  .vl2 {
+    border-left: 1px solid rgba(93, 93, 93, 0.697);
+    height: 50px;
+    margin-left:1215px ;
+    margin-top:-54px
+  }
+
+  .profile{
+
+    width: 50px;
+    height: 50px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-left: 1280px;
+    margin-top: -40px;
+   
+   
+  }
+
+  .vl3 {
+    border-left: 1px solid rgba(93, 93, 93, 0.697);
+    height: 50px;
+    margin-left:1355px ;
+    margin-top:-59px
+  }
+
+
+  .cart{
+
+    width: 50px;
+    height: 50px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-left: 1400px;
+    margin-top: -40px;
+   
+   
+  }
+
+  .home{
+
+    margin-left: 850px;
+    margin-top: -359px;
+  }
+
+  .icon {
+
+    background: rgb(247, 168, 202);
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+
+
+  .vl5 {
+    border-left: 1px solid rgba(122, 122, 122, 0.697);
+    height: 40px;
+    
+    margin-top:-45px;
+    margin-left: 140px;
+  }
+
+  .vl6 {
+    border-left: 1px solid rgba(122, 122, 122, 0.697);
+    height: 40px;
+    
+    margin-top:-45px;
+    margin-left: 310px;
+  }
